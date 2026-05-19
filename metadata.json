@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid Motion Designer Portfolio",
+  "description": "Premium, minimalist portfolio for a hybrid motion designer specializing in AI-enhanced workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
